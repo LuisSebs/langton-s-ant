@@ -2,7 +2,7 @@
 
 Este programa simula hasta 11,000 pasos de la hormiga de Langton, al llegar a esta cantidad se detiene el programa, pero se logra ver el comportamiento emergente que genera la carretera.
 
-<img width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpqMmFoYmNiejUzcGw0YXd4cGh4cGVxanV6aTNqdmdheHgxaGZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lYoe7AvVbluUMaBdN/giphy-downsized-large.gif"/>
+<img width="400px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdlOXJwdnBiZmEwYTdoN2ZwdmgzeXYxamV3dnIwZ3l4bXluNWRtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdv92q8BHmU0OtFK/giphy.gif"/>
 
 # Ejecucion
 
