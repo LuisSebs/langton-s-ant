@@ -20,6 +20,6 @@ javac -d ./classes -cp lib/core.jar:. hormiga/*.java
 Ahora ejecutamos el programa 
 
 ```bash
-java -cp ./classes:lib/core.jar hormiga.HormigaDeLangton <regla>
+java -cp ./classes:lib/core.jar hormiga.HormigaDeLangton
 ```
 
